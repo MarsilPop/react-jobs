@@ -17,6 +17,10 @@ The design is done with Tailwind CSS by Traversy Media
 
 The Jobs are not visible due to using a local server (JSON Server), more work is due regarding building an API with Express
 
+The Project was made during a Course by Traversy Media React Course 2024
+Link to the Course https://www.youtube.com/watch?v=LDB4uaJ87e0&t=6207s&ab_channel=TraversyMedia
+
+
 
 # React + Vite
 
