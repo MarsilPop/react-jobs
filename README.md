@@ -1,8 +1,11 @@
 An SAP (Single Page Application) built in React that features a Job listing frontend website. 
 
 The Home Page features a Hero Component, Navbar Component and boxes, this is where the fetched jobs appear. 
+
 Read More takes the user to the Details Page with all the info about the jobs. 
+
 There are buttons that Delete or Edit the job using Hooks.
+
 The Add Page allows the user to Add a job by filling in a Form. 
 
 The data is from a MOCK backend with JSON server which has CRUD (create, read, update and delete) functionality.
