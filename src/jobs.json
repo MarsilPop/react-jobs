@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "0a3c",
-      "title": "test job 1",
-      "type": "Full-Time",
-      "location": "Budapest",
-      "description": "this is a test",
-      "salary": "$80K - 90K",
-      "company": {
-        "name": "test",
-        "description": "test",
-        "contactEmail": "test@gmail.com",
-        "contactPhone": "555-555-5555"
-      }
     }
   ]
 }
