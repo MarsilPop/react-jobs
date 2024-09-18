@@ -1,5 +1,9 @@
 An SAP (Single Page Application) built in React that features a Job listing frontend website. 
 
+The data is from a MOCK backend with JSON server which has CRUD (create, read, update and delete) functionality.
+
+The design is done with Tailwind CSS by Traversy Media
+
 
                                                       -- DISCLAIMER --
 
