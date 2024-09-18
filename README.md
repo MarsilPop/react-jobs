@@ -1,7 +1,8 @@
 An SAP (Single Page Application) built in React that features a Job listing frontend website. 
 
 
--- DISCLAIMER --
+                                                      -- DISCLAIMER --
+
 The Jobs are not visible due to using a local server (JSON Server), more work is due regarding building an API with Express
 
 
